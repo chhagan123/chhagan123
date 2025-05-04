@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h3>👋 Hello, I'm Chhagan Rakhade<br>I am a passionate Full-Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and a solid foundation in Data Structures and Algorithms (DSA) using Java. I love solving complex problems and building efficient, scalable applications<h3/>
+<h3>👋 Hello, I'm Chhagan Rakhade<br>I am a passionate Full-Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and a solid foundation in Data Structures and Algorithms (DSA) I love solving complex problems and building efficient, scalable applications<h3/>
 
 [![](https://visitcount.itsvg.in/api?id=chhagan123&icon=0&color=0)](https://visitcount.itsvg.in)
 
